@@ -25,10 +25,9 @@ def banner():
 print(colored("""
 Coder By Mars ""","blue"))
 print(colored("""
-
 Github : https://github.com/Mars0J
 Youtube : https://youtube.com/channel/UCvndkeSdiN7LcQP4gS5pbeA
-Discord : https://discord.gg/FbBzYNgewq ""","magenta"))
+Discord : https://discord.gg/FbBzYNgewq""","magenta"))
 
 
 def phone_info():
