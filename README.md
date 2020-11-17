@@ -11,5 +11,6 @@ pkg install python
 git clone https://github.com/Mars0J/LoadNumber
 cd LoadNumber
 python install.py
-python Load_number.py
+chmod 777 load_number.py
+python load_number.py
 ```
